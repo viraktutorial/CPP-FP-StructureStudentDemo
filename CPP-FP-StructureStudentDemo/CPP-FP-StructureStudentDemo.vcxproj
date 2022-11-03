@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="CPP-FP-StructureStudentDemo.cpp" />
     <ClCompile Include="Student.cpp" />
+    <ClCompile Include="User.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
